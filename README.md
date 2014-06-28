@@ -8,7 +8,7 @@ If you add a topic that you would be willing to speak about or see another topic
 Available Speakers
 =================
 
-Please add your github id if you're generally available to give a talk about some.
+Please add your github id if you're generally available to give a talk about something.
 
    * estrabd
    * ... 
