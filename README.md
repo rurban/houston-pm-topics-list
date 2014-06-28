@@ -16,15 +16,21 @@ Please add your github id if you're generally available to give a talk about som
 Active Topics List
 ==================
 
-These are talks that are currently available.
+Current talk ideas - 
 
-| Talk Title                                         | Experience Level  | Description                |   |
-|----------------------------------------------------|-------------------|----------------------------|---|
-| Regular expressions (chapter from Mastering Perl)  | Intermediate+     | lookahead, @-, @+, /x      |   |
-| Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE     |   |
-| Introduction to blocks and closures                | Any               |                            |   |
-| Top 10 "must see" YAPC Talks                       | Any               |                            |   | 
-| Basic parsing from scratch                         | Any               | recursive descent, ll, lr  |   | 
+| Talk Title                                         | Experience Level  | Description                  |   |
+|----------------------------------------------------|-------------------|------------------------------|---|
+| Regular expressions (chapter from Mastering Perl)  | Intermediate+     | lookahead, @-, @+, /x        |   |
+| Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE       |   |
+| Introduction to blocks and closures                | Any               | fundamental things with {}   |   |
+| Top 10 "must see" YAPC Talks of "all time"         | Any               |                              |   | 
+| Basic parsing from scratch                         | Any               | recursive descent, ll, lr    |   | 
+| Genetic algorithms in Perl - basic concepts        | Any               | basic fitness                |   |
+| Dynamic programming concepts in Perl               | Intermediate+     | basic concepts, Perl e.g.    |   |
+| Perl is not a language, it is liquid Unix^TM       | Any               | not sure yet                 |   |
+| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                 |   | 
+| Threading with Qore (follow to last Qore talk)     | Any               | not sure yet                 |   |
+| Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research               |   |
 
 Archived Topics List
 ====================
