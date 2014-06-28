@@ -5,6 +5,14 @@ Community maintained list of topics and speakers for Houston.pm meetings, but ai
 
 If you add a topic that you would be willing to speak about or see another topic that you would be willing to speak about, please add your github username.
 
+Available Speakers
+=================
+
+Please add your github id if you're generally available to give a talk about some.
+
+   * estrabd
+   * ... 
+
 Active Topics List
 ==================
 
